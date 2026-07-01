@@ -1,29 +1,22 @@
-# Python Learning Journey
+# Python Learning Journey 🚀
 
-Hi! I'm Benjamin, a Computing student based in London.
+Hi, I'm Benjamin.
 
-This repository documents my journey learning:
+I'm currently learning:
 - Python
-- Problem Solving
 - Software Engineering
-- Git & GitHub
-- AI-assisted development
+- AI & Machine Learning
+- Cloud Computing
+
+This repository documents my journey building projects, learning programming fundamentals, and developing real-world technical skills.
 
 ## Goals
-- Build consistency
-- Improve coding skills
-- Create real projects
-- Prepare for internships and future software engineering roles
+- Become a software/AI engineer
+- Build a strong GitHub portfolio
+- Learn automation and AI tools
+- Create real-world projects
 
-## Current Topics
-- Variables
-- Data types
-- Loops
-- Functions
-- Conditionals
-
-## Future Projects
-- Calculator app
-- To-do app
-- Weather app
-- Expense tracker
+## Current Progress
+- GitHub setup ✅
+- First Python script ✅
+- Learning Git & GitHub ✅
