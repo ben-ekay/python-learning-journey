@@ -1,22 +1,24 @@
-# Python Learning Journey 🚀
+# Python Learning Journey
 
-Hi, I'm Benjamin.
+This repository documents my ongoing learning journey in Python programming as part of my transition into software development.
 
-I'm currently learning:
+## Technologies Used
 - Python
-- Software Engineering
-- AI & Machine Learning
-- Cloud Computing
+- Git & GitHub
 
-This repository documents my journey building projects, learning programming fundamentals, and developing real-world technical skills.
+## Purpose
+The goal of this repository is to track my progress, practice coding fundamentals, and build small projects while improving my programming skills.
 
-## Goals
-- Become a software/AI engineer
-- Build a strong GitHub portfolio
-- Learn automation and AI tools
-- Create real-world projects
+## Topics Covered
+- Python basics
+- Variables and data types
+- Control structures (if, loops)
+- Functions
+- Object-Oriented Programming (OOP)
+- Problem solving exercises
 
-## Current Progress
-- GitHub setup ✅
-- First Python script ✅
-- Learning Git & GitHub ✅
+## Future Goals
+- Build small Python projects
+- Improve algorithmic thinking
+- Strengthen Git and version control skills
+- Prepare for junior developer roles
